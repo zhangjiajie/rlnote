@@ -1,2 +1,2 @@
 # rlnote
-reinforcement learning notes
+Reinforcement Learning Notes
